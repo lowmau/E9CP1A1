@@ -42,3 +42,5 @@ puts "Promedio de precios: #{products_list[0].promedio}"
 puts "Promedio de precios: #{products_list[1].promedio}"
 puts "Promedio de precios: #{products_list[2].promedio}"
 puts "Promedio de precios: #{products_list[3].promedio}"
+
+puts products_list[0].nuevo(data)
